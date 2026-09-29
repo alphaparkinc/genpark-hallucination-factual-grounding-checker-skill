@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-hallucination-factual-grounding-checker-skill"
+version = "1.0.0"
+description = "Factual grounding and citation overlap verifier measuring claim support against retrieved passages"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
