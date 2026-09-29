@@ -1,0 +1,6 @@
+name: genpark-hallucination-factual-grounding-checker-skill
+version: 1.0.0
+description: Factual grounding and citation overlap verifier measuring claim support against retrieved passages
+command: python
+args:
+  - mcp_server.py
